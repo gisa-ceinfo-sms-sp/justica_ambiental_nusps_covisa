@@ -1,4 +1,5 @@
 # justica_ambiental_nusps_covisa
+Mapa Sustentabilidade e Justiça Ambiental
 Ações da Vigilância em Saúde Ambiental segundo os territórios de UVIS / CRS
 
 Desenvolvido por:
@@ -14,13 +15,12 @@ Coordenação de Epidemiologia e Informação (CEInfo)
 Coordenadoria de Informação em Saúde (CIS)
 Secretaria-Executiva de Regulação, Monitoramento, Avaliação e Parcerias (SERMAP)
 
-Atualização: set/2024
-Saiba mais sobre o NUSPS em:
+Atualização: maio/2025
+Saiba mais sobre o NUSPS em: https://capital.sp.gov.br/web/saude/w/vigilancia_em_saude/saude_ambiental/348468
 
+Acesse o mapa em: https://www.google.com/maps/d/u/1/viewer?mid=1pYvTcA8tGN9b48RSmX96EGLCxQg9h_I&ll=-23.682761206373563%2C-46.59567599999999&z=11
+![image](https://github.com/user-attachments/assets/f2d15cef-c99f-4639-afde-e662839a436d)
 
-https://www.google.com/maps/d/u/1/viewer?mid=1pYvTcA8tGN9b48RSmX96EGLCxQg9h_I&ll=-23.682761206373563%2C-46.59567599999999&z=11
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1pYvTcA8tGN9b48RSmX96EGLCxQg9h_I&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 
