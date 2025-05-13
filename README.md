@@ -18,8 +18,9 @@ Secretaria-Executiva de Regulação, Monitoramento, Avaliação e Parcerias (SER
 Atualização: maio/2025
 Saiba mais sobre o NUSPS em: https://capital.sp.gov.br/web/saude/w/vigilancia_em_saude/saude_ambiental/348468
 
-Acesse o mapa em: https://www.google.com/maps/d/u/1/viewer?mid=1pYvTcA8tGN9b48RSmX96EGLCxQg9h_I&ll=-23.682761206373563%2C-46.59567599999999&z=11
-![image](https://github.com/user-attachments/assets/f2d15cef-c99f-4639-afde-e662839a436d)
+Acesse o mapa em: [link](https://www.google.com/maps/d/u/1/viewer?mid=1pYvTcA8tGN9b48RSmX96EGLCxQg9h_I&ll=-23.682761206373563%2C-46.59567599999999&z=11)
+![image](https://github.com/user-attachments/assets/df858637-6583-4002-be0e-110414c67ecf)
+
 
 
 
