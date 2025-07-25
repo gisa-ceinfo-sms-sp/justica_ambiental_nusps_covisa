@@ -9,11 +9,11 @@ Divisão de Vigilância em Saúde Ambiental (DVISAM)\
 Coordenadoria de Vigilância em Saúde (COVISA)\
 Secretaria-Executiva de Atenção Básica, Especialidades e Vigilância em Saúde (SEABEVS)\
 
-Colaboração:
+Colaboração:\
 Núcleo de Geoprocessamento e Informações Socioambientais (NGISA)\
 Coordenação de Epidemiologia e Informação (CEInfo)\
 Coordenadoria de Informação em Saúde (CIS)\
-Secretaria-Executiva de Regulação, Monitoramento, Avaliação e Parcerias (SERMAP)\
+Secretaria-Executiva de Regulação, Monitoramento, Avaliação e Parcerias (SERMAP)
 
 Atualização: maio/2025\
 Saiba mais sobre o NUSPS em: https://capital.sp.gov.br/web/saude/w/vigilancia_em_saude/saude_ambiental/348468
