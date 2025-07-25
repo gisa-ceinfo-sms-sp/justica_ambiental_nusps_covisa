@@ -7,7 +7,7 @@ Secretaria Municipal da Saúde de São Paulo (SMS-SP)\
 Núcleo de Desenvolvimento Sustentável e Promoção à Saúde (NUSPS)\
 Divisão de Vigilância em Saúde Ambiental (DVISAM)\
 Coordenadoria de Vigilância em Saúde (COVISA)\
-Secretaria-Executiva de Atenção Básica, Especialidades e Vigilância em Saúde (SEABEVS)\
+Secretaria-Executiva de Atenção Básica, Especialidades e Vigilância em Saúde (SEABEVS)
 
 Colaboração:\
 Núcleo de Geoprocessamento e Informações Socioambientais (NGISA)\
