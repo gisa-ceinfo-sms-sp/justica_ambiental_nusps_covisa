@@ -17,7 +17,7 @@ Coordenação de Epidemiologia e Informação (CEInfo)\
 Coordenadoria de Informação em Saúde (CIS)\
 Secretaria-Executiva de Regulação, Monitoramento, Avaliação e Parcerias (SERMAP)
 
-Atualização: setembro/2029\
+Atualização: setembro/2025\
 \
 \
 Conheça mais sobre o NUSPS em: [link] (https://capital.sp.gov.br/web/saude/w/vigilancia_em_saude/saude_ambiental/348468)
