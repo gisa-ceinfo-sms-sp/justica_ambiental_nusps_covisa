@@ -20,7 +20,7 @@ Secretaria-Executiva de Regulação, Monitoramento, Avaliação e Parcerias (SER
 Atualização: setembro/2025\
 \
 \
-Conheça mais sobre o NUSPS em: [link] (https://capital.sp.gov.br/web/saude/w/vigilancia_em_saude/saude_ambiental/348468)
+Conheça mais sobre o NUSPS em: [link](https://capital.sp.gov.br/web/saude/w/vigilancia_em_saude/saude_ambiental/348468)
 
 Acesse a área do mapa no site da PrefSP: [link](https://prefeitura.sp.gov.br/web/saude/w/vigilancia_em_saude/saude_ambiental/mapa-de-vigilancia-em-saude-e-justica-ambiental)
 
